@@ -1,0 +1,34 @@
+/*
+ groups.strings
+ CreaPhoto
+
+ Created by Michel Donais on 2021-04-02.
+ Copyright © 2019-2021 Misoservices Inc. All rights reserved.
+ */
+
+// Copyright © 1991-2021 Unicode, Inc.
+// For terms of use, see http://www.unicode.org/copyright.html
+// Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+// CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+
+"group.Smileys & Emotion" = "Smileys & Emotion";
+"group.People & Body" = "People & Body";
+"group.Component" = "Component";
+"group.Animals & Nature" = "Animals & Nature";
+"group.Food & Drink" = "Food & Drink";
+"group.Travel & Places" = "Travel & Places";
+"group.Activities" = "Activities";
+"group.Objects" = "Objects";
+"group.Symbols" = "Symbols";
+"group.Flags" = "Flags";
+
+"groupicon.Smileys & Emotion" = "😃";
+"groupicon.People & Body" = "👋";
+"groupicon.Component" = "🦱";
+"groupicon.Animals & Nature" = "🐻";
+"groupicon.Food & Drink" = "🍔";
+"groupicon.Travel & Places" = "🌇";
+"groupicon.Activities" = "⚽";
+"groupicon.Objects" = "💡";
+"groupicon.Symbols" = "🔣";
+"groupicon.Flags" = "🎌";
